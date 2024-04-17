@@ -1,3 +1,5 @@
+package Singleton;
+
 public class Message{
 
     private String text = "Hello";

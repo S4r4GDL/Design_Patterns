@@ -1,9 +1,9 @@
-package Estrategy;
+package Strategy;
 
-public class Controler {
+public class Controller {
     private Service<?> service;
 
-    public Controler() {
+    public Controller() {
     }
 
     public Service getService() {
